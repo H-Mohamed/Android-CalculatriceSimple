@@ -289,7 +289,5 @@ public class home extends Activity {
 }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Licence MIT
-### Support or Contact https://imghost.io/images/2018/03/28/Calc.jpg
+### Support or Contact https://www.linkedin.com/in/mohamedharir/
