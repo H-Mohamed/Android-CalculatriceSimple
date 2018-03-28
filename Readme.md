@@ -4,7 +4,7 @@
 ![Image](https://imghost.io/images/2018/03/28/Calc.jpg)
 
 ### Code de Calcule Java (class home)
-```markdown 
+```java 
 
 import android.os.Bundle;
 import android.app.Activity;
